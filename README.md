@@ -35,7 +35,12 @@ A fully responsive, multi-page website built using HTML, CSS, and JavaScript.Thi
 
 <p align="center">
   <img src="assets/images/contactpage.png" width="40%">
+   <img src="assets/images/locationpage.png" width="40%">
 </p>
 
+### 🔗 Live Demo : 
 
+👉 Live Preview: 
+
+### Thank you for visiting Designo – Multi-Page Website!
 

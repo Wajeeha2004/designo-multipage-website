@@ -1,8 +1,8 @@
-## **Designo – Multi-Page Website**
+## Designo – Multi-Page Website
 
 A fully responsive, multi-page website built using HTML, CSS, and JavaScript.This project includes modern layouts, reusable components, interactive elements, and mobile-first design.
 
-### 🚀 **Features : **
+### 🚀 Features : 
 
 1. Multi-page layout (Home, About, Services, Contact, etc.)
 
@@ -18,7 +18,7 @@ A fully responsive, multi-page website built using HTML, CSS, and JavaScript.Thi
 
 7. Organized folder structure
 
-### 🛠️ **Technologies Used : **
+### 🛠️ Technologies Used : 
 
 1. HTML5 – Structure and content
 
@@ -26,10 +26,7 @@ A fully responsive, multi-page website built using HTML, CSS, and JavaScript.Thi
 
 3. JavaScript
 
-### 📸 **Screenshots : **
-![Home Page](assets/images/homepage.png) ![Service Page](assets/images/servicespage.png)
-![Contact Page](assets/images/contactpage.png)
-## 📸 Screenshots
+### 📸 Screenshots : 
 
 <p align="center">
   <img src="assets/images/homepage.png" width="40%">

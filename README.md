@@ -40,7 +40,7 @@ A fully responsive, multi-page website built using HTML, CSS, and JavaScript.Thi
 
 ### 🔗 Live Demo : 
 
-👉 Live Preview: 
+👉 Live Preview: https://designoresponsivewebsite.netlify.app/
 
 ### Thank you for visiting Designo – Multi-Page Website!
 

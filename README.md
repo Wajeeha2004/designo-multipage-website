@@ -27,4 +27,7 @@ A fully responsive, multi-page website built using HTML, CSS, and JavaScript.Thi
 3. JavaScript
 
 ### 📸 **Screenshots : **
+![Home Page](assets/images/homepage.png) ![Service Page](assets/images/servicepage.png)
+![Contact Page](assets/images/contactpage.png)
+
 
